@@ -1,0 +1,223 @@
+
+
+#ab {
+    margin-left: 560px;
+}
+
+#covere {
+      box-shadow: 0px 2px 2px #888888;
+}
+
+body{
+ background: #232526;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.jumbo {
+
+height: 400px;
+   
+  background-image: url("cso.jpg");     
+  background-attachment: fixed;
+    
+    box-shadow: 2px;
+    
+    
+ 
+ 
+  
+}
+
+.button {
+  
+  top: 78%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.far{
+    font-size: 70x;
+    color: #343A40;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.formm {
+    margin-top: 70px;
+    background: #536976;  /* fallback for old browsers */
+    background: rgba(0,0,0,0.6);
+    max-width: 50%;
+    color: aliceblue;
+    border-radius: 12px;
+
+}
+
+form {
+    padding: 25px;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Major Mono Display', monospace;
+    font-weight: 200;
+    font-size: 2.5rem;
+
+}
+
+input{
+    margin-bottom:  25px;
+    width: 100%;
+    color: white;
+
+    border : 0px;
+    background: rgba(0,0,0,0.1);
+    border-bottom: 2px;
+    border-bottom-color: aliceblue;
+
+}
+
+label {
+    font-family: 'Sniglet', cursive;
+    font-size: 1.6rem;
+}
+
+select {
+    margin-bottom: 25px;
+    background: rgba(0,0,0,0.1);
+    color : white;
+    border: 0px;
+}
+
+textarea {
+    margin-bottom: 25px;
+    width: 100%;
+    background: rgba(0,0,0,0.1);
+    color: white;
+    border: 0px;
+}
+
+end {
+    width: 100%;
+    background-color: aliceblue;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: rgba(192,192,192,0.5);
+
+}
+
+input:focus {
+    outline:none;
+}
+
+textarea:focus{
+    outline:none;
+}
+
+select:focus{
+    outline: none;
+}
+
+button {
+    color: #4F4949;
+}
+
+option {
+    background-color: black;
+}
+
+#map{
+    height: 400px;
+    width: 100%;
+}
+
+.end{
+margin-top: 70px;
+background-color: #263238;
+
+
+}
+
+h2{
+    font-family: 'Major Mono Display', monospace;
+    margin-top: 50px;
+    color: aliceblue;
+    text-align: center;
+
+}
+
+h5{
+     color: aliceblue;
+    text-align: center;
+    font-family: 'Margarine', cursive;
+}
+
+.fab{
+    color: aliceblue;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.far{
+  
+  color: aliceblue;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+.details{
+    margin-top: 40px;
+    text-align: center;
+    
+}
+
+#burg {
+    height: 200px;
+    width: 355px;
+    box-shadow: 0px;
+   margin-left: 100px;
+    display: inline-block;
+}
+
+#chicken {
+   float: left;
+    width: 280px;
+    height: 201px;
+
+}
+
+agar button dala {
+     position: relative;
+  text-align: center;
+  color: white;
+    
+     background-position: center;
+  background-repeat: no-repeat;
+}
+
+
+li {
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.1rem;
+}
+
+.fa-facebook-square:hover {
+    color: #4267B2;
+}
+
+.fa-instagram:hover {
+    color: #E64C5C;
+}
+
+.fa-twitter-square:hover {
+    color: #1DA1F2;
+}
+
+.fa-envelope:hover {
+    color: #D54D40;
+}
